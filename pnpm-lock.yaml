@@ -40,6 +40,9 @@ devDependencies:
   eslint:
     specifier: 8.52.0
     version: 8.52.0
+  eslint-plugin-next:
+    specifier: ^0.0.0
+    version: 0.0.0
   eslint-plugin-react:
     specifier: ^7.33.2
     version: 7.33.2(eslint@8.52.0)
@@ -1102,6 +1105,10 @@ packages:
       object.fromentries: 2.0.7
       semver: 6.3.1
     dev: false
+
+  /eslint-plugin-next@0.0.0:
+    resolution: {integrity: sha512-IldNDVb6WNduggwRbYzSGZhaskUwVecJ6fhmqwX01+S1aohwAWNzU4me6y47DDzpD/g0fdayNBGxEdt9vKkUtg==}
+    dev: true
 
   /eslint-plugin-react-hooks@4.6.0(eslint@8.52.0):
     resolution: {integrity: sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g==}
