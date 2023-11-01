@@ -25,14 +25,14 @@ const Header = () => {
   });
 
   // submenu handler
-  const [openIndex, setOpenIndex] = useState(-1);
-  const handleSubmenu = (index) => {
-    if (openIndex === index) {
-      setOpenIndex(-1);
-    } else {
-      setOpenIndex(index);
-    }
-  };
+  // const [openIndex, setOpenIndex] = useState(-1);
+  // const handleSubmenu = (index) => {
+  //   if (openIndex === index) {
+  //     setOpenIndex(-1);
+  //   } else {
+  //     setOpenIndex(index);
+  //   }
+  // };
 
   return (
     <>
