@@ -21,7 +21,6 @@ export default function Home() {
       <Features />
       <Video />
       <Brands />
-      sfdsa
       <AboutSectionOne />
       <AboutSectionTwo />
       <Testimonials />
