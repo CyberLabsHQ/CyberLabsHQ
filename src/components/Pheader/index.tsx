@@ -72,6 +72,7 @@ const Header = () => {
               About me
             </Link>
             <Link href="/me#skills">My skills</Link>
+            <Link href="/">Startup</Link>
           </div>
           <div className="flex w-full items-center justify-between px-4">
             <div>

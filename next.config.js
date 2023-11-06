@@ -10,7 +10,7 @@ const nextConfig = {
     // limit of 25 imageSizes values
     imageSizes: [16, 32, 48, 64, 96, 128, 256, 384],
     // limit of 50 domains values (deprecated)
-    domains: ['lh3.googleusercontent.com',],
+    remotePatterns: ['lh3.googleusercontent.com',],
     // path prefix for Image Optimization API, useful with `loader`
     path: '/_next/image',
     // loader can be 'default', 'imgix', 'cloudinary', 'akamai', or 'custom'
